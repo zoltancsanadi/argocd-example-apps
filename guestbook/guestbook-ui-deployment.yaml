@@ -21,3 +21,4 @@ spec:
           env:
             - name: GITOPS_LAB
               value: "true"
+
